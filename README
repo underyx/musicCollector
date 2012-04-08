@@ -8,6 +8,12 @@ Please make sure to set a download path for the torrent files in config.py!
 Also, sorry about stupidities in my code, I'm just starting to learn Python.
 Any feedback is appreciated, though!
 
+Currently on my to do list:
+ - Add progress indicators to be displayed during long tasks
+ - Set up network error handling
+ - [URGENT] Display the isohunt.com torrent detail pages, to comply with their
+   API's terms of use.
+
 ===============================================================================
 
 Copyright (c) 2012, Nagy Bence (Underyx)
